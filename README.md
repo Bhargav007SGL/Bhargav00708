@@ -12,13 +12,13 @@ I'm a Full stack developer at ScanPointGeomatics Limited...
 
 ## Other Common Github Profile Sections
 
-👩‍💻 I'm currently working on Backend with NodeJs...
+👩‍💻 I'm currently working on Backend with NodeJs.
 
-🧠 I'm currently learning Javascript...
+🧠 I'm currently learning Javascript.
 
-👯‍♀️ I'm looking to collaborate with Marvel...
+👯‍♀️ I'm looking to collaborate with Marvel.
 
-💬 Ask me about that Why Javascript is best Programming Language...
+💬 Ask me about that Why Javascript is best Programming Language.
 
 😄 Pronouns me console.log('Bharagv');
 
@@ -26,5 +26,5 @@ I'm a Full stack developer at ScanPointGeomatics Limited...
 
 
 ## 🛠 Skills
-NodeJs,React,Mongodb,Postgres,Data Structure, Algorithms
+NodeJs,React,Mongodb,Postgres,Data Structure, Algorithms.
 
