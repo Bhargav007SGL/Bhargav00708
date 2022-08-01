@@ -16,7 +16,7 @@ I'm a Full stack developer at ScanPointGeomatics Limited...
 
 🧠 I'm currently learning Javascript.
 
-👯‍♀️ I'm looking to collaborate with Marvel.
+👯‍♀️ I'm looking to collaborate with Dev's.
 
 💬 Ask me about that Why Javascript is best Programming Language.
 
