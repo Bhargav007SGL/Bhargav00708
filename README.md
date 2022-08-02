@@ -9,7 +9,6 @@ I'm a Full stack developer at ScanPointGeomatics Limited...
 *   🌍  I'm based in Ahmedabad
 *   🖥️  See my portfolio at [Portfolio](http://bhargav00708.github.io/Portfolio/)
 *   ✉️  You can contact me at [vanrabhargav@gmail.com](mailto:vanrabhargav@gmail.com)
-*   🚀  I'm currently working on [SuperHeroAPI](http://a)
 *   🧠  I'm learning Blockchain
 *   🤝  I'm open to collaborating on Web3 Related Projects
 ### Skills
