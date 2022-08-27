@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software devloper and designer
 ------------------------------
 
-I'm a Full stack developer at ScanPointGeomatics Limited...
+I'm a Full stack developer at ScanPoint Geomatics Limited...
 
 *   🌍  I'm based in Ahmedabad
 *   🖥️  See my portfolio at [Portfolio](http://bhargav00708.github.io/Portfolio/)
