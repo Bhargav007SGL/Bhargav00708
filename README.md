@@ -1,10 +1,14 @@
 Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 =====================================================================================================================================
---------------------------------------------------------------------
+
 👨‍💻 Full Stack Sorcerer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
+
 🌍 Based in Ahmedabad 🏙️ | ✨ Crafting Digital Wonders ✨
+
 💻 Solving Problems with 0s and 1s 💡 | ⚡️ Master of Algorithms 🧠
+
 🔍 Exploring the Mysteries of System Design 🚀 | 🧩 Puzzle Solver Extraordinaire 🎯
+
 📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
 
 
