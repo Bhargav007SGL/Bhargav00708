@@ -6,7 +6,6 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 💻 Solving Problems with 0s and 1s 💡 | ⚡️ Master of Algorithms 🧠
 🔍 Exploring the Mysteries of System Design 🚀 | 🧩 Puzzle Solver Extraordinaire 🎯
 📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
-------------------------------
 
 * I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
   Based in the enchanting city of Ahmedabad 🏰🌍
