@@ -7,13 +7,14 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 🔍 Exploring the Mysteries of System Design 🚀 | 🧩 Puzzle Solver Extraordinaire 🎯
 📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
 
+
 * I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
   Based in the enchanting city of Ahmedabad 🏰🌍
 
-* When I'm not conjuring code spells, you can find me exploring new dimensions in   my portfolio: [Portfolio](http://bhargav00708.github.io/Portfolio/) 🚀🔗
-  Or decoding mysterious algorithms on LeetCode: [LeetCode]    (https://leetcode.com/vanrabhargav/) 🧩🔍
-
-* Need to send me a magical message? ✉️📬 Drop it in my enchanted mailbox at     [vanrabhargav@gmail.com] (mailto:vanrabhargav@gmail.com) 📧🦉
+* When I'm not conjuring code spells, you can find me exploring new dimensions in my portfolio: [Portfolio](http://bhargav00708.github.io/Portfolio/)
+  Or decoding mysterious algorithms on LeetCode: [LeetCode](https://leetcode.com/vanrabhargav/)
+  
+* Need to send me a magical message? ✉️📬 Drop it in my enchanted mailbox at [vanrabhargav@gmail.com](mailto:vanrabhargav@gmail.com)
 
 ### Skills
 
