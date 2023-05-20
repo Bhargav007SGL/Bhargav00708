@@ -13,7 +13,7 @@ Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------
 
 * I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
   Based in the enchanting city of Ahmedabad 🏰🌍
