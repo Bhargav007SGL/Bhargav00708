@@ -1,17 +1,20 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bhargav Vanra
+Hey there! 👋 I'm Bhargav Vanra, a Software Magician 🎩✨
 =====================================================================================================================================
 
-Software devloper and designer
+👨‍💻 Full Stack Sorcerer 🧙‍♂️ | 💡 Converting Coffee ☕ into Code 💻
+🌍 Based in Ahmedabad 🏙️ | ✨ Crafting Digital Wonders ✨
+💻 Solving Problems with 0s and 1s 💡 | ⚡️ Master of Algorithms 🧠
+🔍 Exploring the Mysteries of System Design 🚀 | 🧩 Puzzle Solver Extraordinaire 🎯
+📚 Full Stack Maestro 🚀 | 🐳 Dockerizing Apps, Spinning Containers, and Kubernating Chaos 🚢
 ------------------------------
 
-I'm a Full stack developer at ScanPoint Geomatics Limited...
+* I work my magic as a Full Stack Developer at ScanPoint Geomatics Limited 🌟🔮
+  Based in the enchanting city of Ahmedabad 🏰🌍
 
-*   🌍  I'm based in Ahmedabad
-*   🖥️  See my portfolio at [Portfolio](http://bhargav00708.github.io/Portfolio/)
-*   🖥️  See my leetcode profile at [Leetcode](https://leetcode.com/vanrabhargav/)
-*   ✉️  You can contact me at [vanrabhargav@gmail.com](mailto:vanrabhargav@gmail.com)
-*   🧠  I'm learning Blockchain,Smart Contract and Solidity
-*   🤝  I'm open to collaborating on Web3 Projects
+* When I'm not conjuring code spells, you can find me exploring new dimensions in   my portfolio: [Portfolio](http://bhargav00708.github.io/Portfolio/) 🚀🔗
+  Or decoding mysterious algorithms on LeetCode: [LeetCode]    (https://leetcode.com/vanrabhargav/) 🧩🔍
+
+* Need to send me a magical message? ✉️📬 Drop it in my enchanted mailbox at     [vanrabhargav@gmail.com] (mailto:vanrabhargav@gmail.com) 📧🦉
 
 ### Skills
 
